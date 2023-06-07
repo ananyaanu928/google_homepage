@@ -177,10 +177,10 @@ footer a:hover {
 		margin: auto 3.5px;
 	}
 	nav button {
-		border: 0.5px solid #4285f4;
-		padding: 3.5px 6px;
+		padding: 2.5px 5px;
 		border-radius: 1.5px;
 		margin-left: 3.5px;
+		font-size: 12px;
 	}
 	.home .goologo {
 		width: 12.5%;
