@@ -163,7 +163,7 @@ footer a:hover {
 }
 @media (max-width: 740px){
 	body {
-	min-height: 90vh;
+	min-height: 100vh;
         }
 	nav {
 		margin-right: 15px;
@@ -186,22 +186,22 @@ footer a:hover {
 		font-size: 10px;
 	}
 	.home .goologo {
-		width: 20%;
-		margin-top: 45px;
+		width: 30%;
+		margin-top: 70px;
 	}
 	.searchbar {
-		width: 200px;
+		width: 300px;
 		margin-top: -14px;
 	}
 	.searchbar .inputsearch {
 		font-size: 14px;
 		padding: 10px;
 		padding-left: 22.5px;
-		border-radius: 12.5px;
+		border-radius: 20px;
 	}
 	.searchbar .searchicon {
-		width: 15px;
-		top: 6px;
+		width: 19px;
+		top: 6.5px;
 		left: 6.5px;
 	}
 	.searchbar .voiceicon {
@@ -210,6 +210,7 @@ footer a:hover {
 		right: 12px;
 	}
 	.searchbutton {
+		display: table-column;
 		padding: 4.5px 7.5px;
 		font-size: 12px;
 		border-radius: 2px;
@@ -221,22 +222,20 @@ footer a:hover {
 		font-size: 12px;
 	}
 	.languages a {
-		margin-left: 2.5px;
+		margin-left: 16px;
 	}
 	footer h4 {
-		font-size: 7.5px;
-		line-height: 20px;
+		font-size: 14px;
+		line-height: 26px;
 		font-weight: 210;
 		padding-left: 29px;
 	}
 	footer a {
 		padding: 6px 5.6px;
-		font-size: 15px;
+		font-size: 12px;
 	}
-	.footerlink1 {
+	.footerlink1, .footerlink2 {
 		padding-left: 9.5px;
-	}
-	.footerlink2 {
-		padding-right: 9.5px;
+		justify-content: center;
 	}
 }
