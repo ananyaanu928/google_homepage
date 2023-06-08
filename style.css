@@ -186,23 +186,23 @@ footer a:hover {
 		font-size: 10px;
 	}
 	.home .goologo {
-		width: 30%;
+		width: 40%;
 		margin-top: 70px;
 	}
 	.searchbar {
-		width: 300px;
-		margin-top: -14px;
+		width: 340px;
+		margin-top: -12px;
 	}
 	.searchbar .inputsearch {
-		font-size: 14px;
-		padding: 10px;
-		padding-left: 22.5px;
+		font-size: 16px;
+		padding: 9px;
+		padding-left: 21px;
 		border-radius: 20px;
 	}
 	.searchbar .searchicon {
 		width: 19px;
-		top: 6.5px;
-		left: 6.5px;
+		top: 7px;
+		left: 7px;
 	}
 	.searchbar .voiceicon {
 		width: 15px;
@@ -225,17 +225,19 @@ footer a:hover {
 		margin-left: 16px;
 	}
 	footer h4 {
-		font-size: 14px;
-		line-height: 26px;
+		font-size: 16px;
+		line-height: 28px;
 		font-weight: 210;
-		padding-left: 29px;
+		padding-left: 2px;
 	}
 	footer a {
 		padding: 6px 5.6px;
 		font-size: 12px;
+		padding: 14px 16px;
+	    font-size: 14px;
 	}
 	.footerlink1, .footerlink2 {
-		padding-left: 9.5px;
+		padding-left: 12px;
 		justify-content: center;
 	}
 }
